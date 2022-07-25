@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(206, 92%, 94%);
+}
+
+ 
+  
+  button {
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+ 
+ 
+  .cancelbtn {
+    padding: 14px 20px;
+    background-color: #fa9b94;
+  }
+
+  .signupbtn{
+    background-color: aquamarine;
+  }
+  
+
+  .cancelbtn, .signupbtn {
+    float: left;
+    width: 50%;
+  }
+  
+  .container {
+    padding: 30px;
+  }
+  
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
