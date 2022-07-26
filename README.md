@@ -13,4 +13,7 @@ Features include:
 - Sign Up page (New User)
 - Choice between two different exams
 
+Contact:
+Name: Preksha Prakash Revankar
+Email: prekshaprakashrevankareee2019@citchennai.net
 
